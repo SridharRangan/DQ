@@ -8,4 +8,3 @@
 
 --Weka
 
-#### Section 3: Blah
