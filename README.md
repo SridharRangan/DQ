@@ -2,7 +2,7 @@
 
 ## Section 1: First Data Quality Repository
 
--- Python
+- Python
 -- R
 ### Section 2: Tools
 
