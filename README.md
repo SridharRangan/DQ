@@ -1,2 +1,6 @@
 # DQ
-First Data Quality Repository
+
+## Section 1: First Data Quality Repository
+
+--Python
+--R
