@@ -2,9 +2,9 @@
 
 ## Section 1: First Data Quality Repository
 
---Python
---R
+-- Python
+-- R
 ### Section 2: Tools
 
---Weka
+-- Weka
 
